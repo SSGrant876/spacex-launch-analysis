@@ -11,6 +11,7 @@ The goal of this project was to analyze SpaceX Falcon 9 launch records and uncov
 - Interactive visualizations with Folium & Plotly
 - Launch site proximity analysis
 - Launch success prediction using Machine Learning (Logistic Regression, SVM, Decision Tree, KNN)
+- A comprehensive PDF presentation of the findings
 
 ---
 
